@@ -1,0 +1,4 @@
+-e .
+dashscope
+colorist
+inquirer

@@ -1,0 +1,107 @@
+.preview_html {
+    width: auto;
+    height: 700px !important;
+}
+
+
+td.svelte-13hsdno.svelte-13hsdno.svelte-13hsdno {
+    text-align: left;
+}
+
+.preview_imgs {
+    min-height: 700px !important;
+    max-height: 700px !important;
+}
+
+.btn_ai_prompt {
+    background: #6366f1;
+    color: #ffffff;
+}
+
+#release_note {
+    color: #6366f1 !important;
+}
+
+/* example  */
+.gallery.svelte-gqt00k {
+    border: 2px solid var(--border-color-primary);
+    max-height: 400px;
+    object-fit: cover;
+}
+
+#title {
+    /* text-align: center; */
+    color: #232446;
+    font-size: 2.5rem;
+    position: relative;
+    text-shadow: 0 0 0.1em rgb(212, 206, 253), 0 0 0.1em rgb(212, 206, 253),
+        0 0 0.1em rgb(212, 206, 253);
+    font-weight: 900;
+    /* letter-spacing: 0.5vw; */
+    display: flex !important;
+    align-content: center !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.btn_ai_prompt {
+    background-color: #624AFF !important;
+    color: #FFFFFF !important;
+    border-radius: 2px !important;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+.btn_gen {
+    background-color: #624AFF !important;
+    color: #FFFFFF !important;
+    border-radius: 2px !important;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* tab按钮样式 */
+button.svelte-kqij2n {
+    margin-bottom: -1px;
+    border: 1px solid transparent;
+    border-color: transparent;
+    border-bottom: none;
+    border-top-right-radius: var(--container-radius);
+    border-top-left-radius: var(--container-radius);
+    padding: var(--size-1) var(--size-4);
+    color: #9CA3AF !important;
+    font-weight: var(--section-header-text-weight);
+    font-size: 20px;
+    /* background-color: #7293ff; */
+}
+
+button.selected.svelte-kqij2n {
+    background: #624AFF !important;
+    color: white !important;
+}
+
+#qr_code {
+    max-height: 100px !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+#qr_code_info {
+    text-align: center;
+}
+
+img.svelte-1btp92j {
+    max-height: 200px !important;
+    height: 200px !important;
+    display: flex !important;
+    align-content: center !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.block.style_example_img.svelte-90oupt {
+    max-height: 200px !important;
+    height: 200px !important;
+    display: flex !important;
+    align-content: center !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
